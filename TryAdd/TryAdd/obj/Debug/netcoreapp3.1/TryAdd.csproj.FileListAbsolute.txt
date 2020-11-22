@@ -1,0 +1,13 @@
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.exe
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.deps.json
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.runtimeconfig.json
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.runtimeconfig.dev.json
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.dll
+C:\Users\anku\source\repos\TryAdd\TryAdd\bin\Debug\netcoreapp3.1\TryAdd.pdb
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.csprojAssemblyReference.cache
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.csproj.CoreCompileInputs.cache
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.AssemblyInfoInputs.cache
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.AssemblyInfo.cs
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.dll
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.pdb
+C:\Users\anku\source\repos\TryAdd\TryAdd\obj\Debug\netcoreapp3.1\TryAdd.genruntimeconfig.cache

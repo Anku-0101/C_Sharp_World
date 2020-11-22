@@ -1,0 +1,7 @@
+D:\Test_Console\EventsPractice\StudioRomen\bin\Debug\StudioRomen.exe.config
+D:\Test_Console\EventsPractice\StudioRomen\bin\Debug\StudioRomen.exe
+D:\Test_Console\EventsPractice\StudioRomen\bin\Debug\StudioRomen.pdb
+D:\Test_Console\EventsPractice\StudioRomen\obj\Debug\StudioRomen.csprojAssemblyReference.cache
+D:\Test_Console\EventsPractice\StudioRomen\obj\Debug\StudioRomen.csproj.CoreCompileInputs.cache
+D:\Test_Console\EventsPractice\StudioRomen\obj\Debug\StudioRomen.exe
+D:\Test_Console\EventsPractice\StudioRomen\obj\Debug\StudioRomen.pdb

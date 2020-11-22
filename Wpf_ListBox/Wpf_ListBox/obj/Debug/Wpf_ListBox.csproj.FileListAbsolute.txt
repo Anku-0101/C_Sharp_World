@@ -1,0 +1,15 @@
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.exe.config
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.exe
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.pdb
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csprojAssemblyReference.cache
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\MainWindow.g.cs
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\App.g.cs
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox_MarkupCompile.cache
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox_MarkupCompile.lref
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\MainWindow.baml
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.g.resources
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.Properties.Resources.resources
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csproj.GenerateResource.cache
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csproj.CoreCompileInputs.cache
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.exe
+D:\Test_Console\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.pdb

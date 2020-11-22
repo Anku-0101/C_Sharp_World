@@ -1,0 +1,10 @@
+D:\Test_Console\LoggerInConsole\LoggerInConsole\bin\Debug\LoggerInConsole.exe.config
+D:\Test_Console\LoggerInConsole\LoggerInConsole\bin\Debug\LoggerInConsole.exe
+D:\Test_Console\LoggerInConsole\LoggerInConsole\bin\Debug\LoggerInConsole.pdb
+D:\Test_Console\LoggerInConsole\LoggerInConsole\bin\Debug\log4net.dll
+D:\Test_Console\LoggerInConsole\LoggerInConsole\bin\Debug\log4net.xml
+D:\Test_Console\LoggerInConsole\LoggerInConsole\obj\Debug\LoggerInConsole.csprojAssemblyReference.cache
+D:\Test_Console\LoggerInConsole\LoggerInConsole\obj\Debug\LoggerInConsole.csproj.CoreCompileInputs.cache
+D:\Test_Console\LoggerInConsole\LoggerInConsole\obj\Debug\LoggerInConsole.csproj.CopyComplete
+D:\Test_Console\LoggerInConsole\LoggerInConsole\obj\Debug\LoggerInConsole.exe
+D:\Test_Console\LoggerInConsole\LoggerInConsole\obj\Debug\LoggerInConsole.pdb

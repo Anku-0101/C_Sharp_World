@@ -1,0 +1,16 @@
+﻿<Window x:Class="wpf03_typesOfEvents_Direct_Bubbling_Tunneling.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf03_typesOfEvents_Direct_Bubbling_Tunneling"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.587,0.453">
+        <Button x:Name="outerButton" HorizontalAlignment="Center" VerticalAlignment="Top" Height="40" Width="149" Click="outerButton_Click" Margin="296,0,347,0" PreviewMouseDown="outerbutton_PreviewMouseDown">
+            <Button x:Name="innerButton" Width="108" Content="Inner Button" Click="innerButton_Click" PreviewMouseDown="innerbutton_PreviewMouseDown" />
+        </Button>
+        <Label x:Name="label" HorizontalAlignment="Left" VerticalAlignment="Center" Width="782" Height="61" Margin="0,184,0,174"/>
+
+    </Grid>
+</Window>

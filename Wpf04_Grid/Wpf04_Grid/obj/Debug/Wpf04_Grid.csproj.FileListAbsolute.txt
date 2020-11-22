@@ -1,0 +1,15 @@
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\bin\Debug\Wpf04_Grid.exe.config
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\bin\Debug\Wpf04_Grid.exe
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\bin\Debug\Wpf04_Grid.pdb
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.csprojAssemblyReference.cache
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\MainWindow.g.cs
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\App.g.cs
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid_MarkupCompile.cache
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid_MarkupCompile.lref
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\MainWindow.baml
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.g.resources
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.Properties.Resources.resources
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.csproj.GenerateResource.cache
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.csproj.CoreCompileInputs.cache
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.exe
+C:\Users\anku\source\repos\Wpf04_Grid\Wpf04_Grid\obj\Debug\Wpf04_Grid.pdb

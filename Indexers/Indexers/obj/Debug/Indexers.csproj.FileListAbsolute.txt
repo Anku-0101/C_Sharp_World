@@ -1,0 +1,7 @@
+D:\Test_Console\Indexers\Indexers\bin\Debug\Indexers.exe.config
+D:\Test_Console\Indexers\Indexers\bin\Debug\Indexers.exe
+D:\Test_Console\Indexers\Indexers\bin\Debug\Indexers.pdb
+D:\Test_Console\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+D:\Test_Console\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+D:\Test_Console\Indexers\Indexers\obj\Debug\Indexers.exe
+D:\Test_Console\Indexers\Indexers\obj\Debug\Indexers.pdb

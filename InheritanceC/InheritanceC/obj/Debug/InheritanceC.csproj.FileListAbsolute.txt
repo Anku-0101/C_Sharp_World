@@ -1,0 +1,7 @@
+D:\Test_Console\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe.config
+D:\Test_Console\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe
+D:\Test_Console\InheritanceC\InheritanceC\bin\Debug\InheritanceC.pdb
+D:\Test_Console\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csprojAssemblyReference.cache
+D:\Test_Console\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csproj.CoreCompileInputs.cache
+D:\Test_Console\InheritanceC\InheritanceC\obj\Debug\InheritanceC.exe
+D:\Test_Console\InheritanceC\InheritanceC\obj\Debug\InheritanceC.pdb

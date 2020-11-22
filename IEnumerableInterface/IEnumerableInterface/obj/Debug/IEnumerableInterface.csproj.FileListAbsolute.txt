@@ -1,0 +1,7 @@
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\bin\Debug\IEnumerableInterface.exe.config
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\bin\Debug\IEnumerableInterface.exe
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\bin\Debug\IEnumerableInterface.pdb
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\obj\Debug\IEnumerableInterface.csprojAssemblyReference.cache
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\obj\Debug\IEnumerableInterface.csproj.CoreCompileInputs.cache
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\obj\Debug\IEnumerableInterface.exe
+D:\Test_Console\IEnumerableInterface\IEnumerableInterface\obj\Debug\IEnumerableInterface.pdb

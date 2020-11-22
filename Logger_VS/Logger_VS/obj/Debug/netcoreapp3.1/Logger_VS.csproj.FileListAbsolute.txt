@@ -1,0 +1,13 @@
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.exe
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.deps.json
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.runtimeconfig.json
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.runtimeconfig.dev.json
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.dll
+D:\Test_Console\Logger_VS\Logger_VS\bin\Debug\netcoreapp3.1\Logger_VS.pdb
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.csprojAssemblyReference.cache
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.csproj.CoreCompileInputs.cache
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.AssemblyInfoInputs.cache
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.AssemblyInfo.cs
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.dll
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.pdb
+D:\Test_Console\Logger_VS\Logger_VS\obj\Debug\netcoreapp3.1\Logger_VS.genruntimeconfig.cache

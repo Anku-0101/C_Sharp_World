@@ -1,0 +1,5 @@
+﻿IComparable Interface
+
+IComparer Interface : When we are creating the class, class definition is under our control
+
+IComparer : When class is given us to consume , we don't have the source code

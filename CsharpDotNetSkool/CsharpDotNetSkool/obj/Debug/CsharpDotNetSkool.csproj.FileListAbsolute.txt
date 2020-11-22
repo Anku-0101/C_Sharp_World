@@ -1,0 +1,7 @@
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\bin\Debug\CsharpDotNetSkool.exe.config
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\bin\Debug\CsharpDotNetSkool.exe
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\bin\Debug\CsharpDotNetSkool.pdb
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\obj\Debug\CsharpDotNetSkool.csprojAssemblyReference.cache
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\obj\Debug\CsharpDotNetSkool.csproj.CoreCompileInputs.cache
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\obj\Debug\CsharpDotNetSkool.exe
+D:\Test_Console\CsharpDotNetSkool\CsharpDotNetSkool\obj\Debug\CsharpDotNetSkool.pdb

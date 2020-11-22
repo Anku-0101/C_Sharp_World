@@ -1,0 +1,7 @@
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\bin\Debug\Reflection_Introduction.exe.config
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\bin\Debug\Reflection_Introduction.exe
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\bin\Debug\Reflection_Introduction.pdb
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\obj\Debug\Reflection_Introduction.csprojAssemblyReference.cache
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\obj\Debug\Reflection_Introduction.csproj.CoreCompileInputs.cache
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\obj\Debug\Reflection_Introduction.exe
+D:\Test_Console\Reflection_Introduction\Reflection_Introduction\obj\Debug\Reflection_Introduction.pdb

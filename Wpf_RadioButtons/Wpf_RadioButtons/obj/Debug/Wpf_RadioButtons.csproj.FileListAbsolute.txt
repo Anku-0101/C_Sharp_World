@@ -1,0 +1,15 @@
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\bin\Debug\Wpf_RadioButtons.exe.config
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\bin\Debug\Wpf_RadioButtons.exe
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\bin\Debug\Wpf_RadioButtons.pdb
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.csprojAssemblyReference.cache
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\MainWindow.g.cs
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\App.g.cs
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons_MarkupCompile.cache
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons_MarkupCompile.lref
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\MainWindow.baml
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.g.resources
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.Properties.Resources.resources
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.csproj.GenerateResource.cache
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.csproj.CoreCompileInputs.cache
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.exe
+D:\Test_Console\Wpf_RadioButtons\Wpf_RadioButtons\obj\Debug\Wpf_RadioButtons.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpf_DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <!-- OneWay data binding -->
+        <Label FontSize="25" HorizontalAlignment="Center"> OneWay data binding</Label>
+        <TextBox Width="100" HorizontalAlignment="Center" x:Name="oneWayTextBox" Text="{Binding ElementName=oneWaySlider, Path=Value, Mode=OneWay}"/>
+        <Slider x:Name="oneWaySlider" Minimum="0" Maximum="100"/>
+
+        <!-- TwoWay data binding -->
+        <Label FontSize="25" HorizontalAlignment="Center">TwoWay data binding</Label>
+        <TextBox Width="100" HorizontalAlignment="Center" x:Name="TwoWayTextBox" Text="{Binding ElementName=TwoWaySlider, Path=Value, Mode=TwoWay}"/>
+        <Slider x:Name="TwoWaySlider" Minimum="0" Maximum="100"/>
+
+        <!-- OneWayToSource data binding -->
+        <Label FontSize="25" HorizontalAlignment="Center">OneWayToSource data binding</Label>
+        <TextBox Width="100" HorizontalAlignment="Center" x:Name="OneWayToSourceTextBox" Text="{Binding ElementName=OneWayToSourceSlider, Path=Value, Mode=OneWayToSource}"/>
+        <Slider x:Name="OneWayToSourceSlider" Minimum="0" Maximum="100"/>
+
+        <!-- OneTime data binding, needs to be initialized in constructor -->
+        <Label FontSize="25" HorizontalAlignment="Center">OneTime data binding</Label>
+        <TextBox Width="100" HorizontalAlignment="Center" x:Name="OneTimeTextBox" Text="{Binding ElementName=OneTimeSlider, Path=Value, Mode=OneTime}"/>
+        <Slider x:Name="OneTimeSlider" Minimum="0" Maximum="100"/>
+    </StackPanel>
+</Window>

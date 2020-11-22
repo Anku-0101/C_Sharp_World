@@ -1,0 +1,13 @@
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.exe
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.deps.json
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.runtimeconfig.json
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.runtimeconfig.dev.json
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.dll
+D:\Test_Console\Udemy\Udemy\bin\Debug\netcoreapp3.1\Udemy.pdb
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.csproj.CoreCompileInputs.cache
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.AssemblyInfoInputs.cache
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.AssemblyInfo.cs
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.dll
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.pdb
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.genruntimeconfig.cache
+D:\Test_Console\Udemy\Udemy\obj\Debug\netcoreapp3.1\Udemy.csprojAssemblyReference.cache

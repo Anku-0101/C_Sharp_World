@@ -1,0 +1,7 @@
+D:\Test_Console\AbstractClass\AbstractIntro\bin\Debug\AbstractIntro.exe.config
+D:\Test_Console\AbstractClass\AbstractIntro\bin\Debug\AbstractIntro.exe
+D:\Test_Console\AbstractClass\AbstractIntro\bin\Debug\AbstractIntro.pdb
+D:\Test_Console\AbstractClass\AbstractIntro\obj\Debug\AbstractIntro.csprojAssemblyReference.cache
+D:\Test_Console\AbstractClass\AbstractIntro\obj\Debug\AbstractIntro.csproj.CoreCompileInputs.cache
+D:\Test_Console\AbstractClass\AbstractIntro\obj\Debug\AbstractIntro.exe
+D:\Test_Console\AbstractClass\AbstractIntro\obj\Debug\AbstractIntro.pdb

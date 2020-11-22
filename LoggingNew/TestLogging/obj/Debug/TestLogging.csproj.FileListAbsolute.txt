@@ -1,0 +1,13 @@
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\log4net.config
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\TestLogging.exe.config
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\TestLogging.exe
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\TestLogging.pdb
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\Log4NetLibrary.dll
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\log4net.dll
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\Log4NetLibrary.pdb
+D:\Test_Console\LoggingNew\TestLogging\bin\Debug\log4net.xml
+D:\Test_Console\LoggingNew\TestLogging\obj\Debug\TestLogging.csprojAssemblyReference.cache
+D:\Test_Console\LoggingNew\TestLogging\obj\Debug\TestLogging.csproj.CoreCompileInputs.cache
+D:\Test_Console\LoggingNew\TestLogging\obj\Debug\TestLogging.csproj.CopyComplete
+D:\Test_Console\LoggingNew\TestLogging\obj\Debug\TestLogging.exe
+D:\Test_Console\LoggingNew\TestLogging\obj\Debug\TestLogging.pdb

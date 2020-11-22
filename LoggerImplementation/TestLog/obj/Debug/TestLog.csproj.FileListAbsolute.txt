@@ -1,0 +1,13 @@
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\TestLog.exe.config
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\TestLog.exe
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\TestLog.pdb
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\LoggerImplementation.dll
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\log4net.dll
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\LoggerImplementation.pdb
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\log4net.xml
+D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.csprojAssemblyReference.cache
+D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.csproj.CoreCompileInputs.cache
+D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.csproj.CopyComplete
+D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.exe
+D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.pdb
+D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\log4net.config

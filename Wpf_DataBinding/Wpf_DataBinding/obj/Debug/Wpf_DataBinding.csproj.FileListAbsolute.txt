@@ -1,0 +1,15 @@
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.exe.config
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.exe
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.pdb
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csprojAssemblyReference.cache
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\App.g.cs
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding_MarkupCompile.cache
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding_MarkupCompile.lref
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\MainWindow.baml
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.g.resources
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.Properties.Resources.resources
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csproj.GenerateResource.cache
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.exe
+C:\Users\anku\source\repos\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.pdb

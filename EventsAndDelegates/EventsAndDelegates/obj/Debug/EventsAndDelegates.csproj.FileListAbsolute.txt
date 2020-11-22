@@ -1,0 +1,7 @@
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+D:\Test_Console\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

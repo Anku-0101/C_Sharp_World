@@ -1,0 +1,33 @@
+﻿<Window x:Class="Wpf_RadioButtons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_RadioButtons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold" FontSize="30">Is Project Completed?</Label>
+        <RadioButton Margin="5" Checked="Yes_Checked">
+            <WrapPanel Margin="5,0,0,0">
+                <Rectangle Fill="Green" Height="16" Width="16" />
+                <TextBlock FontWeight="Bold" Text="   YES" Foreground="Green"/>
+            </WrapPanel>
+        </RadioButton>
+
+        <RadioButton Margin="5" Checked="No_Checked">
+            <WrapPanel Margin="5,0,0,0">
+                <Rectangle Fill="Red" Height="16" Width="16" />
+                <TextBlock FontWeight="Bold" Text="   NO" Foreground="Red"/>
+            </WrapPanel>
+        </RadioButton>
+
+        <RadioButton Margin="5" Checked="Still_ProgressChecked">
+            <WrapPanel Margin="5,0,0,0">
+                <Rectangle Fill="LightSkyBlue" Height="16" Width="16" />
+                <TextBlock FontWeight="Bold" Text="   Still Working" Foreground="DeepSkyBlue"/>
+            </WrapPanel>
+        </RadioButton>
+        
+    </StackPanel>
+</Window>

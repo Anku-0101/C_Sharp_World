@@ -1,0 +1,13 @@
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.exe
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.deps.json
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.runtimeconfig.json
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.runtimeconfig.dev.json
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.dll
+D:\Test_Console\FileIOMethods\FileIOMethods\bin\Debug\netcoreapp3.1\FileIOMethods.pdb
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.csproj.CoreCompileInputs.cache
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.AssemblyInfoInputs.cache
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.AssemblyInfo.cs
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.dll
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.pdb
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.genruntimeconfig.cache
+D:\Test_Console\FileIOMethods\FileIOMethods\obj\Debug\netcoreapp3.1\FileIOMethods.csprojAssemblyReference.cache

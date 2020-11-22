@@ -1,0 +1,13 @@
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.exe
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.deps.json
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.runtimeconfig.json
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.runtimeconfig.dev.json
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.dll
+D:\Test_Console\StringUtilTesting\StringUtilTesting\bin\Debug\netcoreapp3.1\StringUtilTesting.pdb
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.csprojAssemblyReference.cache
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.csproj.CoreCompileInputs.cache
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.AssemblyInfoInputs.cache
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.AssemblyInfo.cs
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.dll
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.pdb
+D:\Test_Console\StringUtilTesting\StringUtilTesting\obj\Debug\netcoreapp3.1\StringUtilTesting.genruntimeconfig.cache

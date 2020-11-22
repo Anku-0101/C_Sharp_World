@@ -1,0 +1,15 @@
+D:\Test_Console\Wpf02\Wpf02\bin\Debug\Wpf02.exe.config
+D:\Test_Console\Wpf02\Wpf02\bin\Debug\Wpf02.exe
+D:\Test_Console\Wpf02\Wpf02\bin\Debug\Wpf02.pdb
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.csprojAssemblyReference.cache
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\MainWindow.g.cs
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\App.g.cs
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02_MarkupCompile.cache
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02_MarkupCompile.lref
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\MainWindow.baml
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.g.resources
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.Properties.Resources.resources
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.csproj.GenerateResource.cache
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.csproj.CoreCompileInputs.cache
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.exe
+D:\Test_Console\Wpf02\Wpf02\obj\Debug\Wpf02.pdb

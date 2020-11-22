@@ -1,0 +1,7 @@
+Indexers:
+
+[<Modifiers>] <type> this[<parameter list>]
+{
+	[get {<statements>}] //Get Accessor
+	[set {<statements>}] //Set Accessor
+}
