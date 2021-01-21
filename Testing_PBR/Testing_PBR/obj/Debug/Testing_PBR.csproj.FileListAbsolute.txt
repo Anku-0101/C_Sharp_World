@@ -1,0 +1,7 @@
+D:\Test_Console\Testing_PBR\Testing_PBR\bin\Debug\Testing_PBR.exe.config
+D:\Test_Console\Testing_PBR\Testing_PBR\bin\Debug\Testing_PBR.exe
+D:\Test_Console\Testing_PBR\Testing_PBR\bin\Debug\Testing_PBR.pdb
+D:\Test_Console\Testing_PBR\Testing_PBR\obj\Debug\Testing_PBR.csprojAssemblyReference.cache
+D:\Test_Console\Testing_PBR\Testing_PBR\obj\Debug\Testing_PBR.csproj.CoreCompileInputs.cache
+D:\Test_Console\Testing_PBR\Testing_PBR\obj\Debug\Testing_PBR.exe
+D:\Test_Console\Testing_PBR\Testing_PBR\obj\Debug\Testing_PBR.pdb
