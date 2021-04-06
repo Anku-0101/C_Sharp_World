@@ -1,0 +1,16 @@
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.exe
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.deps.json
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.runtimeconfig.json
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.runtimeconfig.dev.json
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.dll
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\ref\XmlReaderWriter.dll
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\bin\Debug\net5.0\XmlReaderWriter.pdb
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.csprojAssemblyReference.cache
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.AssemblyInfoInputs.cache
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.AssemblyInfo.cs
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.dll
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\ref\XmlReaderWriter.dll
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.pdb
+D:\C_Sharp_World\XmlReaderWriter\XmlReaderWriter\obj\Debug\net5.0\XmlReaderWriter.genruntimeconfig.cache

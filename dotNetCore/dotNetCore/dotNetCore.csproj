@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BaseCommon">
+      <HintPath>C:\Users\ankukumar\Downloads\BaseCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="BaseDataAccess">
+      <HintPath>C:\Users\ankukumar\Downloads\BaseDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="dataset">
+      <HintPath>..\..\..\mpng\Dataset\dataset\bin\Debug\dataset.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
