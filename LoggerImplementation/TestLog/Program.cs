@@ -16,7 +16,10 @@ namespace TestLog
             
 
             logger.Error("Handle this error");
-            Console.WriteLine("Handling Error");
+            logger.Info("Logging info logs");
+            logger.Fatal("Logging fatal logs");
+            logger.Debug("Debug log");
+            Console.WriteLine("Handling Logs");
             Console.ReadLine();
 
         }

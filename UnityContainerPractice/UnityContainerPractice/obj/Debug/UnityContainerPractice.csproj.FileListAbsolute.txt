@@ -1,0 +1,15 @@
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\obj\Debug\UnityContainerPractice.csprojAssemblyReference.cache
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\obj\Debug\UnityContainerPractice.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\UnityContainerPractice.exe.config
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\UnityContainerPractice.exe
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\UnityContainerPractice.pdb
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\Unity.Abstractions.dll
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\Unity.Container.dll
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\Unity.Abstractions.pdb
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\bin\Debug\Unity.Container.pdb
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\obj\Debug\UnityContainerPractice.csproj.CopyComplete
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\obj\Debug\UnityContainerPractice.exe
+D:\C_Sharp_World\UnityContainerPractice\UnityContainerPractice\obj\Debug\UnityContainerPractice.pdb

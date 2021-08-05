@@ -1,0 +1,15 @@
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\bin\Debug\WPF_Practice28July.exe.config
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\bin\Debug\WPF_Practice28July.exe
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\bin\Debug\WPF_Practice28July.pdb
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.csprojAssemblyReference.cache
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\App.g.cs
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July_MarkupCompile.cache
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July_MarkupCompile.lref
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\MainWindow.baml
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.g.resources
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.Properties.Resources.resources
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.csproj.GenerateResource.cache
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.exe
+D:\C_Sharp_World\WPF_Practice28July\WPF_Practice28July\obj\Debug\WPF_Practice28July.pdb

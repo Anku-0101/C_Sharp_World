@@ -1,0 +1,7 @@
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\bin\Debug\Practice11thJuly.exe.config
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\bin\Debug\Practice11thJuly.exe
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\bin\Debug\Practice11thJuly.pdb
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\obj\Debug\Practice11thJuly.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\obj\Debug\Practice11thJuly.exe
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\obj\Debug\Practice11thJuly.pdb
+D:\C_Sharp_World\Practice11thJuly\Practice11thJuly\obj\Debug\Practice11thJuly.csprojAssemblyReference.cache

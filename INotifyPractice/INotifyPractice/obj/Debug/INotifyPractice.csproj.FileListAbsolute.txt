@@ -1,0 +1,15 @@
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\bin\Debug\INotifyPractice.exe.config
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\bin\Debug\INotifyPractice.exe
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\bin\Debug\INotifyPractice.pdb
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.csprojAssemblyReference.cache
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\App.g.cs
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice_MarkupCompile.cache
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice_MarkupCompile.lref
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\MainWindow.baml
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.g.resources
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.Properties.Resources.resources
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.csproj.GenerateResource.cache
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.exe
+D:\C_Sharp_World\INotifyPractice\INotifyPractice\obj\Debug\INotifyPractice.pdb

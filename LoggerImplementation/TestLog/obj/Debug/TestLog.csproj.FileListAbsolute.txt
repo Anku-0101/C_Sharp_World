@@ -11,3 +11,16 @@ D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.csproj.CopyComple
 D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.exe
 D:\Test_Console\LoggerImplementation\TestLog\obj\Debug\TestLog.pdb
 D:\Test_Console\LoggerImplementation\TestLog\bin\Debug\log4net.config
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\TestLog.exe.config
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\TestLog.exe
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\TestLog.pdb
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\LoggerImplementation.dll
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\log4net.dll
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\LoggerImplementation.pdb
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\log4net.xml
+D:\C_Sharp_World\LoggerImplementation\TestLog\obj\Debug\TestLog.csprojAssemblyReference.cache
+D:\C_Sharp_World\LoggerImplementation\TestLog\obj\Debug\TestLog.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\LoggerImplementation\TestLog\obj\Debug\TestLog.csproj.CopyComplete
+D:\C_Sharp_World\LoggerImplementation\TestLog\obj\Debug\TestLog.exe
+D:\C_Sharp_World\LoggerImplementation\TestLog\obj\Debug\TestLog.pdb
+D:\C_Sharp_World\LoggerImplementation\TestLog\bin\Debug\logger.Config

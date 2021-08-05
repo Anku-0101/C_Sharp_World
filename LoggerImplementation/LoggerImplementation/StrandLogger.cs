@@ -15,7 +15,7 @@ namespace LoggerImplementation
         static StrandLogger()
         {
             var log4NetConfigDirectory = AppDomain.CurrentDomain.RelativeSearchPath ?? AppDomain.CurrentDomain.BaseDirectory;
-            var log4NetConfigFilePath = Path.Combine(log4NetConfigDirectory, "log4net.config");
+            var log4NetConfigFilePath = Path.Combine(log4NetConfigDirectory, "logger.Config");
             log4net.Config.XmlConfigurator.ConfigureAndWatch(new FileInfo(log4NetConfigFilePath));
         }
 

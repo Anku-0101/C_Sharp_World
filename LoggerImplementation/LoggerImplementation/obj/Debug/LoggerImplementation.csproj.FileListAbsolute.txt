@@ -8,3 +8,12 @@ D:\Test_Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplem
 D:\Test_Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.pdb
 D:\Test_Console\LoggerImplementation\LoggerImplementation\bin\Debug\log4net.config
 D:\Test_Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csprojAssemblyReference.cache
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\bin\Debug\LoggerImplementation.dll
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\bin\Debug\LoggerImplementation.pdb
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\bin\Debug\log4net.dll
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\bin\Debug\log4net.xml
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csproj.CopyComplete
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.dll
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.pdb
+D:\C_Sharp_World\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csprojAssemblyReference.cache
