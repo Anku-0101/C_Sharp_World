@@ -40,8 +40,11 @@ namespace PrismPractice
         {
             base.ConfigureModuleCatalog();
 
+            // Adding ModuleA
             Type sampleModuleType = typeof(SampleModule.RegisterSampleModule);
             ModuleCatalog.AddModule(new Prism.Modularity.ModuleInfo { ModuleName = sampleModuleType.Name, ModuleType = sampleModuleType.AssemblyQualifiedName });
+            
+            //New Modules can be added in a similar way
         }
     }
 }
