@@ -1,0 +1,16 @@
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\bin\Debug\MVVM_Practice_18Aug.exe.config
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\bin\Debug\MVVM_Practice_18Aug.exe
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\bin\Debug\MVVM_Practice_18Aug.pdb
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.csprojAssemblyReference.cache
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\View\MainWindow.g.cs
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\App.g.cs
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug_MarkupCompile.cache
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug_MarkupCompile.lref
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\View\MainWindow.baml
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.g.resources
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.Properties.Resources.resources
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.csproj.GenerateResource.cache
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.exe
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\MVVM_Practice_18Aug.pdb
+D:\C_Sharp_World\MVVM_Practice_18Aug\MVVM_Practice_18Aug\obj\Debug\GeneratedInternalTypeHelper.g.cs

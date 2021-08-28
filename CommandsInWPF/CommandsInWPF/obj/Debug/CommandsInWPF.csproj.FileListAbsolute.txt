@@ -1,0 +1,16 @@
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.csprojAssemblyReference.cache
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\App.g.cs
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF_MarkupCompile.cache
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\bin\Debug\CommandsInWPF.exe.config
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\bin\Debug\CommandsInWPF.exe
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\bin\Debug\CommandsInWPF.pdb
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF_MarkupCompile.lref
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\MainWindow.baml
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.g.resources
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.Properties.Resources.resources
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.csproj.GenerateResource.cache
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.exe
+D:\C_Sharp_World\CommandsInWPF\CommandsInWPF\obj\Debug\CommandsInWPF.pdb

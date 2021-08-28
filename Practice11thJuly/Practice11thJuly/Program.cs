@@ -43,7 +43,7 @@ namespace Practice11thJuly
             decimal d = Convert.ToDecimal(x);
             float y = 2.0000000f;
             int[] arr = new int[5];
-            string 
+             
             if (x % 1 == 0) Console.WriteLine("x is integer");
             if (y % 1 == 0) Console.WriteLine("y is integer");
             Console.WriteLine(str);
