@@ -15,8 +15,8 @@ D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\bin\Debug\framework.pdb
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\bin\Debug\framework.dll.config
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\bin\Debug\Logger.pdb
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\bin\Debug\Logger.dll.config
-D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.csprojAssemblyReference.cache
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.csproj.CoreCompileInputs.cache
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.csproj.CopyComplete
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.exe
 D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.pdb
+D:\C_Sharp_World\DatasetMethodsTest\DatasetMethodsTest\obj\Debug\DatasetMethodsTest.csproj.AssemblyReference.cache

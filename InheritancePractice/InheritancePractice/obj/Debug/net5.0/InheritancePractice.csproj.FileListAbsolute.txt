@@ -1,0 +1,16 @@
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.exe
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.deps.json
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.runtimeconfig.json
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.runtimeconfig.dev.json
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.dll
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\ref\InheritancePractice.dll
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\bin\Debug\net5.0\InheritancePractice.pdb
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.csproj.AssemblyReference.cache
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.AssemblyInfoInputs.cache
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.AssemblyInfo.cs
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.csproj.CoreCompileInputs.cache
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.dll
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\ref\InheritancePractice.dll
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.pdb
+D:\C_Sharp_World\InheritancePractice\InheritancePractice\obj\Debug\net5.0\InheritancePractice.genruntimeconfig.cache

@@ -28,7 +28,7 @@ namespace EventsAndDelegates_Practice_15_July
         private void OnFileDownlaoded()
         {
             if (FileDownloaded != null)
-                FileDownloaded();
+                FileDownloaded.Invoke();
         }
     }
 }
