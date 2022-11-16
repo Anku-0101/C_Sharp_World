@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GnUJtHv8467dNgfcoYPg8+SlZc/LlIEzLOfvQgjUwyiV3w4ac1n4FJg8ImH5CwwTnF+bBfYmnrjFlDU/HFq5g==",
+  "success": true,
+  "projectFilePath": "/Users/anku.choudhary/Downloads/TrainingContents/TrainingDemos/ExtensionMethods/ExtensionMethods.csproj",
+  "expectedPackageFiles": [
+    "/Users/anku.choudhary/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anku.choudhary/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/anku.choudhary/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

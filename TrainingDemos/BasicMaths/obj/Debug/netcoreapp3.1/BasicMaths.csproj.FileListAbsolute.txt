@@ -1,0 +1,10 @@
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/bin/Debug/netcoreapp3.1/BasicMaths.deps.json
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/bin/Debug/netcoreapp3.1/BasicMaths.dll
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/bin/Debug/netcoreapp3.1/BasicMaths.pdb
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.csproj.AssemblyReference.cache
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.AssemblyInfoInputs.cache
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.AssemblyInfo.cs
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.csproj.CoreCompileInputs.cache
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.dll
+/Users/anku.choudhary/Projects/TrainingDemos/BasicMaths/obj/Debug/netcoreapp3.1/BasicMaths.pdb
