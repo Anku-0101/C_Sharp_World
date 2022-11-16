@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{32F50286-44CF-41D2-839D-775E8C3586C3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Program.cs">
+    <Files>
+      <File FileName="DesignPatterns/Program.cs" Line="46" Column="42" IsPinned="True" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Mediator/MediatorPattern.cs" Line="47" Column="1" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Memento/MementoPattern.cs" Line="66" Column="31" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Observer/ObserverPattern.cs" Line="22" Column="34" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Observer/YouTube.cs" Line="99" Column="13" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /State/StatePattern.cs" Line="59" Column="18" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Strategy/StrategyPattern.cs" Line="60" Column="10" />
+      <File FileName="DesignPatterns/DesignPatterns/Behavioural /Template/TemplatePattern.cs" Line="22" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="DesignPatterns" expanded="True">
+              <Node name="DesignPatterns" expanded="True">
+                <Node name="Behavioural " expanded="True">
+                  <Node name="Observer" expanded="True" />
+                  <Node name="State" expanded="True" />
+                  <Node name="Strategy" expanded="True" />
+                  <Node name="Template" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anku.choudhary/Desktop/Galaxy/Training/DesignPatterns/DesignPatterns/DesignPatterns/Creational /Singleton/SingletonThreadSafety.cs" relfile="DesignPatterns/DesignPatterns/Creational /Singleton/SingletonThreadSafety.cs" line="57" column="1" />
+      <Breakpoint file="/Users/anku.choudhary/Desktop/Galaxy/Training/DesignPatterns/DesignPatterns/DesignPatterns/Creational /Singleton/SingletonThreadSafety.cs" relfile="DesignPatterns/DesignPatterns/Creational /Singleton/SingletonThreadSafety.cs" line="52" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
